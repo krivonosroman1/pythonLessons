@@ -1,0 +1,8 @@
+adjective = input("Введите прилогательное: ")
+noun = input("Введите существительное: ")
+verb = input("Введите глагол прошедшего времени: ")
+a = input("Введите слово: ")
+b = input("Введите слово: ")
+c = input("Введите слово: ")
+print ("Ваш Madlib: ")
+print ("Этот", adjective, noun, verb,"на", a, b, c, ".")
