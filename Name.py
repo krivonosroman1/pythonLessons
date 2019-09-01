@@ -1,3 +1,1 @@
-import turtle
-t = turtle. Pen()
-turtle.
+print(name, end - " молодец! ")
